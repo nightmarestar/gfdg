@@ -1,0 +1,5 @@
+*.class
+/myFile/src/ArraylistToTxtDemo/txt.txt
+/out/production/myFile/ArraylistToTxtDemo/txt.txt
+.idea
+out
